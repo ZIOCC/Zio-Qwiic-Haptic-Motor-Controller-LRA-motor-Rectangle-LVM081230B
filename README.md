@@ -1,0 +1,1 @@
+# Zio-Qwiic-Haptic-Motor-Controller-LRA-motor-Rectangle-LVM081230B
